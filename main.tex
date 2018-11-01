@@ -4,6 +4,7 @@
 \usepackage[parfill]{parskip}
 \usepackage[utf8]{inputenc}
 \usepackage{leadsheets}
+\usepackage{multicol}
 
 \setleadsheets{verse/numbered=false}
 \setleadsheets{verses-label-format=\it}
@@ -11,15 +12,11 @@
 \setleadsheets{align-chords=l}
 \setleadsheets{print-chords=true}
 
-\setchords{format=\it}
+\setchords{format=\it\footnotesize}
 
 \begin{document}
 
     \tableofcontents
-
-    \newpage
-
-    \part{Songs}
 
     \newpage
 
@@ -41,6 +38,7 @@
     % \section{Ich und ein Fass voller Wein}
     % \input{songs/ich_und_ein_fass_voller_wein.tex}
     %
+    \newpage
     \section{The Islander}
     \input{songs/islander.tex}
 
@@ -53,6 +51,7 @@
     % \section{Sigurdlied}
     % \input{songs/sigurdlied.tex}
     %
+    \newpage
     \section{Tochter der Weiten}
     \input{songs/tochter_der_weiten.tex}
     %
@@ -74,7 +73,8 @@
     % \section{Wein, Weib und Gesang}
     % \input{songs/wein_weib_und_gesang.tex}
     %
-     \section{Zaubererbruder}
+    \newpage
+    \section{Zaubererbruder}
      \input{songs/zaubererbruder.tex}
 
 
