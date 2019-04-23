@@ -1,24 +1,26 @@
-\documentclass{article}
+\documentclass[12pt,a4paper]{article}
 % General document formatting
-\usepackage[margin=0.7in]{geometry}
+\usepackage[margin=0.8in]{geometry}
 \usepackage[parfill]{parskip}
 \usepackage[utf8]{inputenc}
 \usepackage{leadsheets}
 \usepackage{multicol}
+\usepackage{aurical}
 
 \setcounter{secnumdepth}{0}
-\renewcommand{\contentsname}{Inhalt}
+\renewcommand{\contentsname}{\Huge\Fontlukas Inhalt}
 
-\definesongtitletemplate{heading}{\newpage\section{\songproperty{band} \hfill \songproperty{title}}}
+\definesongtitletemplate{heading}{
+\newpage
+\section{\LARGE\Fontlukas \songproperty{band} \hfill \songproperty{title}}}
 
 \setleadsheets{verse/numbered=true}
-\setleadsheets{verses-label-format=\sc}
+\setleadsheets{verses-label-format=\large\Fontlukas}
 \setleadsheets{smash-chords=true}
 \setleadsheets{align-chords=l}
 \setleadsheets{print-chords=true}
-\setleadsheets{text-format=\capo}
+\setleadsheets{text-format=\textsc{\capo}}
 \setleadsheets{title-template=heading}
-%\setleadsheets{remember-chords=true}
 
 \setchords{format=\it\footnotesize}
 
@@ -27,26 +29,22 @@
     \tableofcontents
 
     \input{songs/adler.tex}
-    %% \input{songs/bards_song.tex}
+    \input{songs/bards_song.tex}
     \input{songs/beim_pissen_gemeuchelt.tex}
-    %
     \input{songs/blau_wie_das_meer.tex}
-    %% \input{songs/far_over_the_misty_mountains.tex}
-    %% \input{songs/ich_und_ein_fass_voller_wein.tex}
-    %
+    \input{songs/far_over_the_misty_mountains.tex}
+    % \input{songs/ich_und_ein_fass_voller_wein.tex}
     \input{songs/islander.tex}
     % \input{songs/laterne.tex}
-    %% \input{songs/nackte_elfe.tex}
-    %% \input{songs/sigurdlied.tex}
-    %
+    % \input{songs/nackte_elfe.tex}
+    % \input{songs/sigurdlied.tex}
     \input{songs/tochter_der_weiten.tex}
-    %% \input{songs/turdion.tex}
-    %% \input{songs/valhalla.tex}
-    %% \input{songs/vargsongen.tex}
-    %% \input{songs/waden_eines_barden.tex}
-    %% \input{songs/walpurgisnacht.tex}
-    %% \input{songs/wein_weib_und_gesang.tex}
-    %
+    % \input{songs/turdion.tex}
+    \input{songs/valhalla.tex}
+    % \input{songs/vargsongen.tex}
+    % \input{songs/waden_eines_barden.tex}
+    \input{songs/walpurgisnacht.tex}
+    % \input{songs/wein_weib_und_gesang.tex}
     \input{songs/zaubererbruder.tex}
 
 
