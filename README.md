@@ -62,6 +62,15 @@ To build:
 * Krabat - ASP:
     - https://tabs.ultimate-guitar.com/tab/asp/krabat_chords_2602761
 
+* Gott ist tot - Tanz der Vampire:
+    - https://tabs.ultimate-guitar.com/tab/misc-soundtrack/tanz-der-vampire-gott-ist-tot-chords-2473470
+
+* Totale Finsternis - Tanz der Vampire:
+    - https://tabs.ultimate-guitar.com/tab/misc-soundtrack/tanz-der-vampire-totale-finsternis-chords-2336647
+
+* Riders on the Storm - Die Apokalyptischen Reiter:
+    - https://genius.com/Die-apokalyptischen-reiter-riders-on-the-storm-lyrics
+
 * Ich und ein Fass voller Wein - Versengold:
 	- https://tabs.ultimate-guitar.com/tab/versengold/ich_und_ein_fass_voller_wein_chords_1746735
 
