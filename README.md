@@ -68,9 +68,13 @@ To build:
   
 * Der Tod von Basel - Volkslied:
 
+* Der Grimmig Tod mit seinem Pfeil - Volkslied:
+
 * Rabenballade - Faun/Schelmisch:
 
 * Es ist ein Schnitter - Volkslied:
+
+* Sieben Raben - Saltatio Mortis:
 
 * Gott ist tot - Tanz der Vampire:
     - https://tabs.ultimate-guitar.com/tab/misc-soundtrack/tanz-der-vampire-gott-ist-tot-chords-2473470
