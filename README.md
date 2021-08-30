@@ -62,6 +62,16 @@ To build:
 * Krabat - ASP:
     - https://tabs.ultimate-guitar.com/tab/asp/krabat_chords_2602761
 
+* Kleid aus Rosen - Subway to Sally:
+  
+* Traum vom Tod - Subway to Sally:
+  
+* Der Tod von Basel - Volkslied:
+
+* Rabenballade - Faun/Schelmisch:
+
+* Es ist ein Schnitter - Volkslied:
+
 * Gott ist tot - Tanz der Vampire:
     - https://tabs.ultimate-guitar.com/tab/misc-soundtrack/tanz-der-vampire-gott-ist-tot-chords-2473470
 
